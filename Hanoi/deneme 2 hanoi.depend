@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1671730859 source:c:\users\ekrem\onedrive\masaüstü\murat yücedað\diziler\deneme 2 hanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1671730859 source:c:\users\ekrem\onedrive\masaüstü\hanoi proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1671730859 source:c:\users\ekrem\onedrive\masaüstü\c proje\hanoi proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
